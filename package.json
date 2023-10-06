@@ -1,0 +1,29 @@
+{
+  "name": "dexalotbot_price_feeds",
+  "version": "1.0.0",
+  "description": "Provide price feeds for dexalot market maker bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beastlorion/dexalotBot_price_feeds.git"
+  },
+  "author": "@Beastlorion",
+  "license": "MIT",
+  "dependencies": {
+    "@binance/connector": "^3.0.0-rc.2",
+    "axios": "^1.4.0",
+    "bignumber.js": "^9.1.1",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "npm": "^9.8.0",
+    "ws": "^8.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Beastlorion/dexalotBot_price_feeds/issues"
+  },
+  "homepage": "https://github.com/Beastlorion/dexalotBot_price_feeds#readme"
+}
